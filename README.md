@@ -41,9 +41,18 @@
 ![VSCode](https://img.shields.io/badge/VSCode-dff7ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <hr style="border: 0.5px solid #ffdfee;" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrinidhianchan&show_icons=true&theme=rose_pine&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhianchan&layout=compact&theme=rose_pine&hide_border=true" height="160px"/>
+</p>
+
 
 ### 🪻 What I love  
 Creating clean, user-centered experiences and building projects that feel good to use.
 <p align="center">
   <img src="https://img.shields.io/badge/-thanks_for_visiting-ffe6f2?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrinidhianchan&show_icons=true&theme=rose_pine&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhianchan&layout=compact&theme=rose_pine&hide_border=true" height="160px"/>
 </p>
