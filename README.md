@@ -51,14 +51,13 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrinidhianchan&layout=compact&theme=rose_pine&hide_border=true" height="160px"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrinidhianchan&color=ffb6d9&style=flat-square" />
-</p>
-
 <hr style="border: 0.5px solid #ffe6f2;" />
 
 ### 🪻 What I love  
 Creating clean, user-centered experiences and building projects that feel good to use.
 <p align="center">
   <img src="https://img.shields.io/badge/-thanks_for_visiting-ffe6f2?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrinidhianchan&color=ffb6d9&style=flat-square" />
 </p>
