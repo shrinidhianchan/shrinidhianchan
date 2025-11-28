@@ -40,15 +40,21 @@
 ![GitHub](https://img.shields.io/badge/GitHub-ececff?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-dff7ff?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<hr style="border: 0.5px solid #ffdfee;" />
+<hr style="border: 0.5px solid #ffe6f2;" />
 
+<hr style="border: 0.5px solid #ffe6f2;" />
+
+## 🪻 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrinidhianchan&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrinidhianchan&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
+
+<hr style="border: 0.5px solid #ffe6f2;" />
 
 ### 🪻 What I love  
 Creating clean, user-centered experiences and building projects that feel good to use.
 <p align="center">
   <img src="https://img.shields.io/badge/-thanks_for_visiting-ffe6f2?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrinidhianchan&show_icons=true&theme=rose_pine&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinidhianchan&layout=compact&theme=rose_pine&hide_border=true" height="160px"/>
 </p>
