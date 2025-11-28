@@ -44,3 +44,6 @@
 
 ### 🪻 What I love  
 Creating clean, user-centered experiences and building projects that feel good to use.
+<p align="center">
+  <img src="https://img.shields.io/badge/-thanks_for_visiting-ffe6f2?style=for-the-badge" />
+</p>
