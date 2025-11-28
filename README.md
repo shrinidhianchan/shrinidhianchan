@@ -47,8 +47,12 @@
 ## 🪻 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrinidhianchan&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrinidhianchan&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shrinidhianchan&show_icons=true&theme=rose_pine&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shrinidhianchan&layout=compact&theme=rose_pine&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrinidhianchan&color=ffb6d9&style=flat-square" />
 </p>
 
 <hr style="border: 0.5px solid #ffe6f2;" />
