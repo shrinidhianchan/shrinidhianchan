@@ -59,3 +59,6 @@ Creating clean, user-centered experiences and building projects that feel good t
   <img src="https://img.shields.io/badge/-thanks_for_visiting-ffe6f2?style=for-the-badge" />
 </p>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrinidhianchan&color=ffb6d9&style=flat-square" />
+</p>
+
