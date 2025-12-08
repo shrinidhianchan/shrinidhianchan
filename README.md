@@ -42,7 +42,6 @@
 
 <hr style="border: 0.5px solid #ffe6f2;" />
 
-<hr style="border: 0.5px solid #ffe6f2;" />
 
 ## 🪻 GitHub Stats  
 
